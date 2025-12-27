@@ -1,0 +1,5 @@
+{
+  "name": "LaserCraft AI",
+  "description": "Inteligentní generátor SVG souborů pro laserové řezání a gravírování. Vytváří 2D návrhy a 3D puzzle z textového popisu.",
+  "requestFramePermissions": []
+}
